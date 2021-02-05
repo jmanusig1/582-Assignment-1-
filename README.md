@@ -1,3 +1,6 @@
+Author: Jared Manusig
+Email: jmanus2@uic.edu
+
 1. This program is used to preprocess a collection and do a simple statistical analysis on the preprocessed data. Program explores the word count, vocabulary size, top 20 words, and minimum number of words to account of 15% of the total number of words in the collection. Furthermore, the program implements the Porter Stemmer algorithm from the nltk library and removes stopwords based on the nltk library of stop words. After cleaning the data, the program outputs the same statistical analyis from above. 
 
 2. How to run: 

@@ -1,3 +1,8 @@
+"""
+Name: Jared Manusig 
+Email: Jmanus2@uic.edu
+"""
+
 import os
 import glob
 import nltk
